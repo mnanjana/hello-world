@@ -1,0 +1,8 @@
+{
+  "mass_solar_masses": 10.0,
+  "initial_distance_km": 500.0,
+  "particle_mass_kg": 1.0,
+  "initial_velocity_kms": 0.1,
+  "time_step": 0.01,
+  "steps": 500
+}
